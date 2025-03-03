@@ -23,7 +23,7 @@ To ensure the bot works correctly, configure the game as follows:
 
 ## ▶️ Usage
 
-Run the script using:
+Open the game main main screen and run the script using:
 
 ```sh
 python main.py
